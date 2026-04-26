@@ -3,6 +3,7 @@ Esse repositório é destinado, para avaliação da matéria MAC0214 com foco em
 
 
 Conta no codeforces usada para contests individuais e resolução de problemas [vivisyama](https://codeforces.com/profile/vivisyama)
+
 Conta no codeforces usada para simulados em time [Aikomoon](https://codeforces.com/profile/Aikomoon)
 
 ## Total de horas:

@@ -7,7 +7,7 @@ Conta no codeforces usada para simulados(unrated) em time [Aikomoon](https://cod
 
 Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/users/vivisyama?contestType=algo#)
 
-Outros códigos de interesse estarão no repositório.
+
 
 ## Total de horas:
 

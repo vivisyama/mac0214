@@ -43,5 +43,5 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 #### 20/04: resolução exercícios D, E, G lista 6(2 horas e 30 min)
 #### 24/04: Teórico Djikstra (videoaulas + codeforces) (1 hora e 30 minutos)
 #### 25/04: resolução exercícios A, B lista 7 (1 hora e 30 min)
-#### 27/04: resolução exercícios C, D lista 7 (2 horas)
-### Total: 27 horas e 30 minutos.
+#### 27/04: resolução exercícios C, D lista 7 (1 hora)
+### Total: 26 horas e 30 minutos.

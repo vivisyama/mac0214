@@ -31,7 +31,7 @@ Tempo aproximado.
 #### 03/04: Teórico Filas, Pilhas, listas encadeadas(video aulas + livro) (4 horas)
 ##### Livro: Algoritmos em linguagem C, P.Feofillof
 #### 06/04: (Upsolving) 2014, VII Samara Regional Intercollegiate Programming Contest (3 horas)
-#### 10/04: Teórico Combinatória (video aulas + codeforces) (3 horas)
+#### 10/04: Teórico Combinatória (codeforces) (3 horas)
 ##### (exercícios estudados na pasta aulas)
 #### 11/04: resolução exercícios lista 5 (3 horas)
 #### 17/04: Teórico grafos, DFS + BFS (video aula + livro) (4 horas)

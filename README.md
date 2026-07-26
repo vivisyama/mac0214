@@ -16,6 +16,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 #### 07/03: resolução exercicios A, B, D lista 1(na pasta de exercicios) (2 horas)
 #### 09/03: resolução exercícios E, F lista 1(na pasta de exercicios) (1 hora e 30 min)
 #### 13/03: Teórico Busca binária (videoaula + livro + codeforces)(4 horas)
+##### Livro: Algorithms Sedwick & Waynes
 ##### (exercícios estudados na pasta aulas)
 #### 14/03: resolução exercícios A, B, C lista 2 (2 horas e 30 min)
 #### 16/03: resolução exercícios E, F ista 2 (2 horas)
@@ -26,4 +27,21 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 #### 27/03: Téorico Teoria dos números (codeforces) (4 horas)
 ##### (exercícios estudados na pasta aulas)
 #### 30/03: resolução exercícios B, E, G lista 4 (2 horas e 30 min)
-## Total do mês: 30 horas e 30 minutos.
+### Total do mês: 30 horas e 30 minutos.
+
+### Abril:
+#### 03/04: Teórico Filas, Pilhas, listas encadeadas(video aulas + livro) (4 horas)
+##### Livro: Algoritmos em linguagem C, P.Feofillof
+#### 06/04: Teórico Fila de prioridade, Heaps, ABB (videoaulas + livro) (3 horas)
+##### Livro: Algorithms Sedwick & Waynes
+#### 10/04: Teórico Combinatória (video aulas + codeforces) (3 horas)
+##### (exercícios estudados na pasta aulas)
+#### 11/04: resolução exercícios B, D, E lista 5 (2 horas)
+#### 13/04: resolução exercícios F, G lista 5 (2 horas)
+#### 17/04: Teórico grafos, DFS + BFS (video aula + livro) (4 horas)
+#### 18/04: resolução exercícios A, B, C lista 6(2 horas)
+#### 20/04: resolução exercícios D, E, G lista 6(2 horas e 30 min)
+#### 24/04: Teórico Djikstra (videoaulas + codeforces) (1 hora e 30 minutos)
+#### 25/04: resolução exercícios A, B lista 7 (1 hora e 30 min)
+#### 27/04: resolução exercícios C, D lista 7 (2 horas)
+### Total: 27 horas e 30 minutos.

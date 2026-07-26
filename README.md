@@ -9,7 +9,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 
 Tempo aproximado.
 
-## Total de horas: 110 horas.
+## Total de horas: 107 horas.
 
 ### Março: 
 #### 06/03: Teórico STL (videoaulas + exercicios) (3 horas)
@@ -43,7 +43,6 @@ Tempo aproximado.
 ### Total: 30 horas e 30 minutos.
 
 ### Maio:
-#### 01/05: Teórico Segtree (video aula) (3 horas)
 #### 02/05: resolução exercícios lista 8 (1 hora)
 #### 08/05: (Upsolving) 2016 PSUT Coding Marathon (3 horas)
 #### 15/05: Teórico Union Find & MST (videoaulas + livro) (2 horas e 30 min)
@@ -52,7 +51,7 @@ Tempo aproximado.
 #### 20/05: (Upsolving) MFP 2025 (4 horas)
 #### 23/05: MFP- Prova Oficial (3 horas)
 #### 29/05: (Upsolving) 2017 ACM Arabella Collegiate Programming Contest (2 horas)
-### Total: 22 horas.
+### Total: 19 horas.
 
 ### Junho:
 #### 01/06: Teórico LCA (video aulas) (1 hora)

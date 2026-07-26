@@ -9,7 +9,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 
 Tempo aproximado.
 
-## Total de horas: 107 horas.
+## Total de horas: 107 horas e 30 minutos.
 
 ### Março: 
 #### 06/03: Teórico STL (videoaulas + exercicios) (3 horas)
@@ -54,7 +54,7 @@ Tempo aproximado.
 ### Total: 19 horas.
 
 ### Junho:
-#### 01/06: Teórico LCA (video aulas) (1 hora)
+#### 01/06: ICPC Masters Mexico LATAM 2023 (3 horas)
 #### 03/06: resolução exercícios lista 10 (3 horas)
 #### 08/06: Teórico KMP - String Search(video aulas) (2 horas)
 #### 10/06: resolução exercícios lista 11 (4 horas)
@@ -62,17 +62,16 @@ Tempo aproximado.
 #### 25/06: Simulado (grupo) - ICPC Dhaka 2025 Online Preliminary - Replay Contest (4 horas)
 #### 27/06: Codeforces Round 1105 (1 hora)
 #### 28/06: Codeforces Round 1106 (1 hora)
-### Total: 20 horas.
+### Total: 22 horas.
 
 ### Julho:
 #### 03/07: resolução exercícios lista 12 (3 horas)
 #### 06/07: Educational Codeforces Round 192 (Rated for Div. 2) (1 hora e 30 min)
 #### 12/07: Codeforces Round 1108 (30 min)
-#### 13/07: Teórico bitmask (videoaulas) (1 hora e 30 min)
 #### 17/07: resolução lista 13 (3 horas)
 #### 16/07: Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2) (30 min)
 #### 18/07: Codeforces Round 1111 (Div. 2) (30 min)
-### Total: 10 horas 30 minutos.
+### Total: 9 horas.
 
 
 

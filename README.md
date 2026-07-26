@@ -18,8 +18,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 #### 13/03: Teórico Busca binária (videoaula + livro + codeforces)(4 horas)
 ##### Livro: Algorithms Sedwick & Waynes
 ##### (exercícios estudados na pasta aulas)
-#### 14/03: resolução exercícios A, B, C lista 2 (2 horas e 30 min)
-#### 16/03: resolução exercícios E, F ista 2 (2 horas)
+#### 14/03: resolução exercícios lista 2 (2 horas)
 #### 20/03: Teórico Dynamic Programming (videoaulas + exercicios ) (4 horas)
 #### 21/03: Codeforces round 1087 (não consegui resolver nenhuma)
 ##### Upsolving do contest (pasta de exercícios)(2 horas)
@@ -27,7 +26,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 #### 27/03: Téorico Teoria dos números (codeforces) (4 horas)
 ##### (exercícios estudados na pasta aulas)
 #### 30/03: resolução exercícios B, E, G lista 4 (2 horas e 30 min)
-### Total do mês: 30 horas e 30 minutos.
+### Total do mês: 28 horas.
 
 ### Abril:
 #### 03/04: Teórico Filas, Pilhas, listas encadeadas(video aulas + livro) (4 horas)

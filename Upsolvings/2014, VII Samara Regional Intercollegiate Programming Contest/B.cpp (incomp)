@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+
+struct Spell {
+    ll a, b;
+};
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int n;
+    cin >> n;
+    vector<Spell> spells(n);
+    for (int i = 0; i < n; i++)
+        cin >> spells[i].a;
+    for (int i = 0; i < n; i++)
+        cin >> spells[i].b;
+    sort(spells.begin(), spells.end(), [](const Spell &x, const Spell &y) {
+        return x.a + x.b < y.a + y.b;
+    });
+
+    ll tempo = 0;
+    for (auto &s : spells) {
+        tempo += s.b;
+        if (tempo > s.a) {
+            cout << "Redemption\n";
+            return 0;
+        }
+    }
+    cout << "Dire victory\n";
+
+    return 0;
+}

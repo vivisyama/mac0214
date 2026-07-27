@@ -22,9 +22,9 @@ Tempo aproximado.
 #### 14/03: resolução exercícios lista 2 (2 horas)
 #### 20/03: Teórico Dynamic Programming (videoaulas) (4 horas)
 #### 21/03: Codeforces round 1087 (não consegui resolver nenhuma)
-##### (Upsolving) do contest (pasta de exercícios)(2 horas)
+##### (Upsolving) 2022-2023 ICPC Brazil Subregional Programming Contest (2 horas)
 #### 25/03: resolução exercícios lista 3 (3 horas)
-#### 27/03: The 2025 ICPC Japan Online First Round Contest (4 horas)
+#### 27/03: (Upsolving) The 2025 ICPC Japan Online First Round Contest (4 horas)
 #### 30/03: resolução exercícios lista 4 (2 horas e 30 min)
 ### Total do mês: 28 horas.
 
@@ -48,13 +48,13 @@ Tempo aproximado.
 #### 15/05: Teórico Union Find & MST (videoaulas + livro) (2 horas e 30 min)
 ##### Livro: Algorithms Sedwick & Waynes
 #### 16/05: resolução exercícios lista 9 (3 horas e 30 min)
-#### 20/05: (Upsolving) MFP 2025 (4 horas)
+#### 20/05: (Upsolving) JCPC 2022 (4 horas)
 #### 23/05: MFP- Prova Oficial (3 horas)
 #### 29/05: (Upsolving) 2017 ACM Arabella Collegiate Programming Contest (2 horas)
 ### Total: 19 horas.
 
 ### Junho:
-#### 01/06: ICPC Masters Mexico LATAM 2023 (3 horas)
+#### 01/06: (Upsolving) ICPC Masters Mexico LATAM 2023 (3 horas)
 #### 03/06: resolução exercícios lista 10 (3 horas)
 #### 08/06: Teórico KMP - String Search(video aulas) (2 horas)
 #### 10/06: resolução exercícios lista 11 (4 horas)

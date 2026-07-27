@@ -32,13 +32,12 @@ Tempo aproximado.
 #### 03/04: Teórico Filas, Pilhas, listas encadeadas(video aulas + livro) (4 horas)
 ##### Livro: Algoritmos em linguagem C, P.Feofillof
 #### 06/04: (Upsolving) 2014, VII Samara Regional Intercollegiate Programming Contest (3 horas)
-#### 10/04: Teórico Combinatória (codeforces) (3 horas)
-##### (exercícios estudados na pasta aulas)
+#### 10/04: Teórico Combinatória (videoaula) (3 horas)
 #### 11/04: resolução exercícios lista 5 (3 horas)
 #### 17/04: Teórico grafos, DFS + BFS (video aula + livro) (4 horas)
 #### 18/04: resolução exercícios A, B, C lista 6(2 horas)
 #### 20/04: resolução exercícios D, E, G lista 6(2 horas e 30 min)
-#### 24/04: Teórico Djikstra (videoaulas + codeforces) (1 hora e 30 minutos)
+#### 24/04: Teórico Djikstra (videoaulas) (1 hora e 30 minutos)
 #### 25/04: resolução exercícios lista 7 (2 horas e 30 min)
 #### 26/04: Seletiva USP - Prova Oficial (5 horas)
 ### Total: 30 horas e 30 minutos.

@@ -10,6 +10,20 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 Tempo aproximado.
 
 
+## Sintaxe dos comandos e opções disponíveis
+
+| Comando/Opção | Efeito |
+|---|---|
+| `build` | Compila os objetos necessários e sempre realiza a ligação (link) final. |
+| `run` | Executa o primeiro candidato a executável encontrado em `BUILD_PATH`; **não compila antes**. |
+| `clean` | Remove `BUILD_PATH` e também procura e remove objetos `.o` soltos em `src` e `include`. |
+| `rebuild` | Executa `clean` e, somente se essa etapa tiver sucesso, executa `build`. |
+| `info` | Exibe estatísticas de arquivos, dados do executável e datas das últimas operações bem-sucedidas. |
+| `-v` | Ativa mensagens de andamento (verbose). |
+| `-d` | Ativa mensagens de depuração (debug). Não adiciona `-g` ao GCC. |
+| `-O0` a `-O3` | Seleciona o nível de otimização passado ao GCC. |
+
+
 
 
 ## Total de horas: 107 horas e 30 minutos.

@@ -8,6 +8,8 @@ Conta no codeforces usada para simulados(unrated) em time [Aikomoon](https://cod
 Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/users/vivisyama?contestType=algo#)
 
 Tempo aproximado.
+
+
 \`\`\`bash
 bash cbuild <comando> [opções]
 \`\`\`

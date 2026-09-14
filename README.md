@@ -10,9 +10,7 @@ Conta no Atcoder usada para contests individuais [vivisyama](https://atcoder.jp/
 Tempo aproximado.
 
 
-```bash
-bash cbuild <comando> [opções]
-```
+
 
 ## Total de horas: 107 horas e 30 minutos.
 
